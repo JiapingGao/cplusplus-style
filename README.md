@@ -43,4 +43,4 @@ To automatically format your code according to this style, place the provided [.
 
 ## 📄 License
 
-This style guide is free to use and modify in your own C++ projects.
+This style guide is free to use and modify in any C++ projects.
