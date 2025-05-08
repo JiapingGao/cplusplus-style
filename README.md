@@ -33,7 +33,7 @@ Best C++ style in the world! ( for me )
 
 ## 🛠 Format Automation
 
-To automatically format your code according to this style, place the provided [.clang-format](https://github.com/JiapingGao/cplusplus-style/blob/main/.clang-format) file at the root of your project. Compatible with:
+To automatically format your code according to this style, place the provided [.clang-format](https://github.com/shizuku-kamiya/cplusplus-style/blob/main/.clang-format) file at the root of your project. Compatible with:
 
 - VS Code (`Clang-Format` extension)
 - Clion / Qt Creator
