@@ -1,4 +1,4 @@
-# 🧠 Custom C++ Style Guide
+# 🧠 C++ Style Guide
 
 This repository contains a **personalized C++ coding style guide**, crafted to ensure clarity, consistency, and maintainability across all C++ projects.
 
