@@ -1,4 +1,4 @@
-# 🧠 Style Guide
+# 🧠 Custom C++ Style Guide
 
 This repository contains a **personalized C++ coding style guide**, crafted to ensure clarity, consistency, and maintainability across all C++ projects.
 
@@ -28,6 +28,16 @@ Best C++ style in the world! ( for me )
 | Macro              | `ALL_CAPS_SNAKE`    | `#define BUFFER_SIZE 1024`       |
 | Enum Member        | `PascalCase`        | `Red`, `Green`, `Blue`           |
 | Namespace          | `lowercase`         | `math`, `engine`, `graphics`     |
+
+---
+
+## 🛠 Format Automation
+
+To automatically format your code according to this style, place the provided `.clang-format` [->](https://github.com/JiapingGao/cplusplus-style/blob/main/.clang-format) file at the root of your project. Compatible with:
+
+- VS Code (`Clang-Format` extension)
+- Clion / Qt Creator
+- Command line: `clang-format -i your_file.cpp`
 
 ---
 
