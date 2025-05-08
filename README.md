@@ -41,6 +41,31 @@ To automatically format your code according to this style, place the provided [.
 
 ---
 
+## 📁 Project Structure
+
+```
+project_name/
+├── src/
+├── include/
+├── tests/
+├── .../
+├── CMakeLists.txt
+├── README.md
+└── ...
+```
+
+---
+
+## 🛠 Suggested Tools
+
+- `Visual Studio Code`
+- `CMake`
+- `Git`
+- `C/C++ Extension Pack` ( vscode extension )
+- `Clang-Format` ( vscode extension )
+
+---
+
 ## 📄 License
 
 This style guide is free to use and modify in any C++ projects.
