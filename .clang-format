@@ -1,0 +1,16 @@
+# .clang-format
+BasedOnStyle: LLVM
+IndentWidth: 4
+UseTab: Never
+BreakBeforeBraces: Attach  # K&R 风格
+AllowShortIfStatementsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: Inline
+AllowShortBlocksOnASingleLine: false
+ColumnLimit: 100
+PointerAlignment: Left
+DerivePointerAlignment: false
+NamespaceIndentation: All
+SortIncludes: false
+IncludeBlocks: Preserve
+Language: Cpp
+Standard: Cpp23
