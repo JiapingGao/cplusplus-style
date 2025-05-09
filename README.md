@@ -1,4 +1,4 @@
-# 🧠 Style Guide
+# Style Guide
 
 This repository contains a **personalized C++ coding style guide**, crafted to ensure clarity, consistency, and maintainability across all C++ projects.
 
@@ -68,4 +68,4 @@ project_name/
 
 ## 📄 License
 
-This style guide is free to use and modify in any C++ projects.
+This style guide is free to use and modify in any projects.
