@@ -12,7 +12,7 @@ Best C++ style in the world! ( for me )
 | Braces            | End-of-line (K&R)          |
 | Encoding          | UTF-8                      |
 | Header guards     | `#pragma once`             |
-| File extensions   | `.cpp` / `.hpp` / `.mpp`   |
+| File extensions   | `.cpp` / `.h` / `.ixx`   |
 
 ---
 
