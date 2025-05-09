@@ -6,13 +6,13 @@ Best C++ style in the world! ( for me )
 
 ## ✅ Summary
 
-| Rule Type         | Style               |
-|-------------------|---------------------|
-| Indentation       | 4 spaces, no tabs   |
-| Braces            | End-of-line (K&R)   |
-| Encoding          | UTF-8               |
-| Header guards     | `#pragma once`      |
-| File extensions   | `.cpp` / `.h`       |
+| Rule Type         | Style                      |
+|-------------------|----------------------------|
+| Indentation       | 4 spaces, no tabs          |
+| Braces            | End-of-line (K&R)          |
+| Encoding          | UTF-8                      |
+| Header guards     | `#pragma once`             |
+| File extensions   | `.cpp` / `.hpp` / `.mpp`   |
 
 ---
 
